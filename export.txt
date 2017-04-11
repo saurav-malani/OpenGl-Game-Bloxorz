@@ -1,0 +1,1 @@
+ export LD_LIBRARY_PATH=/home/saurav/Documents/course_stuff/2.2/graphics/201502047_ass2_graphics/assignment2/lib

@@ -1,0 +1,20 @@
+Camera controls: (keyboard)
+  F - third person follow
+  H - for helicopter view
+  T - for top view
+  P - to lock on tower view
+
+Camera controls: (mouse)
+  In helicopter view:
+    Press the middle mouse button to look around
+
+Cube controls:
+  Arrow keys for respective movement
+
+Level Change:
+  Press "1" for level 1
+  Press "2" for level 2
+
+  NOTE : use makefile_linux for compiling on linux (original is for mac)
+
+  NOTE: Please have a compiled assimp folder inside the current with name "assimp", or compile assimp and copy the lib files to the lib folder in current project
